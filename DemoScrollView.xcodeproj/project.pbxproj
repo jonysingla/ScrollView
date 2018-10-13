@@ -12,6 +12,8 @@
 		F0CA6EF11E7022A20030F80A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0CA6EEF1E7022A20030F80A /* Main.storyboard */; };
 		F0CA6EF31E7022A20030F80A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0CA6EF21E7022A20030F80A /* Assets.xcassets */; };
 		F0CA6EF61E7022A20030F80A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0CA6EF41E7022A20030F80A /* LaunchScreen.storyboard */; };
+		F0CA6EFE1E7024100030F80A /* water.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0CA6EFD1E7024100030F80A /* water.jpg */; };
+		F0CA6F001E702CC90030F80A /* strandvagen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0CA6EFF1E702CC90030F80A /* strandvagen.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F0CA6EF21E7022A20030F80A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0CA6EF51E7022A20030F80A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0CA6EF71E7022A20030F80A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0CA6EFD1E7024100030F80A /* water.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = water.jpg; sourceTree = "<group>"; };
+		F0CA6EFF1E702CC90030F80A /* strandvagen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = strandvagen.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,8 @@
 		F0CA6EDF1E7022A20030F80A = {
 			isa = PBXGroup;
 			children = (
+				F0CA6EFD1E7024100030F80A /* water.jpg */,
+				F0CA6EFF1E702CC90030F80A /* strandvagen.jpg */,
 				F0CA6EEA1E7022A20030F80A /* DemoScrollView */,
 				F0CA6EE91E7022A20030F80A /* Products */,
 			);
@@ -125,7 +131,9 @@
 			files = (
 				F0CA6EF61E7022A20030F80A /* LaunchScreen.storyboard in Resources */,
 				F0CA6EF31E7022A20030F80A /* Assets.xcassets in Resources */,
+				F0CA6F001E702CC90030F80A /* strandvagen.jpg in Resources */,
 				F0CA6EF11E7022A20030F80A /* Main.storyboard in Resources */,
+				F0CA6EFE1E7024100030F80A /* water.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
